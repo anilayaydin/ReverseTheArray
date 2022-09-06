@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "CQ11yDVDMf7D6jPsuX9H27X8WH1dzTSnQGgUb1a4RuYcFQIhtFQg5kBUl+RdYfkxVhQjdNVe7+SEt3DKNEFyOw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ANIL-PC\\Downloads\\Ex_Files_C_Sharp_Algorithms\\Ex_Files_C_Sharp_Algorithms\\Exercise Files\\02\\02_04\\start\\Algorithms\\Algorithms.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ANIL-PC\\.nuget\\packages\\microsoft.netcore.app\\2.0.0\\microsoft.netcore.app.2.0.0.nupkg.sha512",
+    "C:\\Users\\ANIL-PC\\.nuget\\packages\\microsoft.netcore.dotnetapphost\\2.0.0\\microsoft.netcore.dotnetapphost.2.0.0.nupkg.sha512",
+    "C:\\Users\\ANIL-PC\\.nuget\\packages\\microsoft.netcore.dotnethostpolicy\\2.0.0\\microsoft.netcore.dotnethostpolicy.2.0.0.nupkg.sha512",
+    "C:\\Users\\ANIL-PC\\.nuget\\packages\\microsoft.netcore.dotnethostresolver\\2.0.0\\microsoft.netcore.dotnethostresolver.2.0.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\2.0.0\\microsoft.netcore.platforms.2.0.0.nupkg.sha512",
+    "C:\\Users\\ANIL-PC\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
